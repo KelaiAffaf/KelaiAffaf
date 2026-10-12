@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm afaf kelai</h1>
-<h3 align="center">Senior Full Stack software Engineer</h3>
+<h3 align="center">Senior Full Stack software Engineer / Data scientist AI Engineer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kelaiaffaf&label=Profile%20views&color=0e75b6&style=flat" alt="kelaiaffaf" /> </p>
 
